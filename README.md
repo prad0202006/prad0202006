@@ -4,7 +4,7 @@
 **BCA Student | Entry-Level Software Developer | IT & Operations Support**
 
 I’m Pradeep—currently pursuing my **Bachelor of Computer Applications (BCA)** and building a solid foundation in **programming, databases, and web fundamentals**.  
-I also bring real-world workplace experience from **Zepto**, where I handled order-flow operations and supported inventory coordination in a fast-paced environment.
+
 
 ---
 
@@ -22,7 +22,7 @@ I also bring real-world workplace experience from **Zepto**, where I handled ord
 **Programming:** Python, Java basics, C, C++  
 **Database:** SQL, PL/SQL  
 **Web Fundamentals:** HTML basics  
-**Tools:** Tally.ERP 9, basic computer operations  
+**Tools:** Tally.ERP 9, CAD/CAM/CAE software , basic computer operations  
 
 ---
 
@@ -50,7 +50,7 @@ A project focused on organizing library records and simplifying book-management 
 - Coordinated with team members to improve customer satisfaction
 
 ### Business development intern | Blue Bell Engineering Solutions PVT LTD
-**jun 2026 - ** 
+**Jun 2026 -**
 -	Coordinated with teams and clients  to ensure smooth daily operations.
 -	Learned about **CAD/CAM software** and  **2D/3D model design** 
 -	Learned Communication Standards for B2B business 
@@ -59,7 +59,7 @@ A project focused on organizing library records and simplifying book-management 
 ---
 
 ## 🧠 Strengths / Soft Skills
-Communication, teamwork, time management, problem solving, and quick learning.
+Communication, teamwork, time management, problem-solving, and quick learning.
 
 ---
 
