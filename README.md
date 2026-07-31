@@ -49,10 +49,17 @@ A project focused on organizing library records and simplifying book-management 
 - Supported **inventory tasks** to keep stock movement organized
 - Coordinated with team members to improve customer satisfaction
 
+### Business development intern | Blue Bell Engineering Solutions PVT LTD
+**jun 2026 - ** 
+-	Coordinated with teams and clients  to ensure smooth daily operations.
+-	Learned about **CAD/CAM software** and  **2D/3D model design** 
+-	Learned Communication Standards for B2B business 
+-	Helped clients with any issues in software as **tech support**
+
 ---
 
 ## 🧠 Strengths / Soft Skills
-Communication, teamwork, time management, problem solving, quick learning.
+Communication, teamwork, time management, problem solving, and quick learning.
 
 ---
 
@@ -65,8 +72,8 @@ English, Hindi, Kannada, Tamil.
 - **Email:** gp893727@gmail.com  
 - **Phone:** +91 70190 37528  
 - **Location:** HSR Layout, Bengaluru, Karnataka 560102  
-- **LinkedIn:** (add your LinkedIn URL)  
-- **GitHub Projects:** (add your GitHub Projects link if you have one)
+- **LinkedIn:** www.linkedin.com/in/pradeep-g-70836731a
+- **GitHub Projects:** https://github.com/prad0202006/nexus-rag-pipeline.git
 
 ---
 
