@@ -22,7 +22,7 @@ I’m Pradeep—currently pursuing my **Bachelor of Computer Applications (BCA)*
 **Programming:** Python, Java basics, C, C++  
 **Database:** SQL, PL/SQL  
 **Web Fundamentals:** HTML basics  
-**Tools:** Tally.ERP 9, CAD/CAM/CAE software , basic computer operations  
+**Tools:** Tally.ERP 9 , basic computer operations  
 
 ---
 
