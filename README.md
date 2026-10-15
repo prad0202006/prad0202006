@@ -1,7 +1,7 @@
 
-# 👋 Hi, I’m Pradeep G (Unqu & Tech-coder) 👨‍💻
+# 👋 Hi, I’m Pradeep G  👨‍💻
 
-**BCA Student | Entry-Level Software Developer | IT & Operations Support**
+**BCA Student **
 
 I’m Pradeep—currently pursuing my **Bachelor of Computer Applications (BCA)** and building a solid foundation in **programming, databases, and web fundamentals**.  
 
